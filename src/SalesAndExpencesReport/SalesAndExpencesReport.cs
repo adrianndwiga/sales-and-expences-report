@@ -1,6 +1,6 @@
 public static class SalesAndExpencesReport
 {
-    [FunctionName(nameof(Run))]
+    [FunctionName(nameof(SalesAndExpencesReport))]
     public static void Run() 
     {
 
