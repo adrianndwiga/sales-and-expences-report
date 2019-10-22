@@ -1,8 +1,3 @@
-public static class SalesAndExpencesReport
+public class SalesAndExpencesReport
 {
-    [FunctionName(nameof(SalesAndExpencesReport))]
-    public static void Run() 
-    {
-
-    }
 }
